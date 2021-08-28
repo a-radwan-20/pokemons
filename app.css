@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Qahiri&display=swap');
+
+* {
+    margin-left: 3px;
+  }
+  
+  #pokemon-title {
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Qahiri', sans-serif;
+    color: limegreen;
+  }
+  .pokemon {
+    display: inline-block;
+    text-align: center;
+    background-color: lightyellow;
+    border: 1px solid black;
+    border-radius: 5%;
+    margin: 8px;
+    padding: 5px;
+  }
+  
+  .pokemon img {
+    display: block;
+    width: 100px;
+  }
